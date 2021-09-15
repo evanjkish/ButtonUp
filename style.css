@@ -1,0 +1,27 @@
+.search {
+    width:180px;
+    height: 35px;
+    color: rgb(65, 139, 115);
+    font-size: large;
+    background-color: rgb(241, 241, 241);
+    border-color: aquamarine;
+    border-radius: 30px;
+}
+.plus {
+    width: 40px;
+    height: 40px;
+    color: white;
+    font-size: larger;
+    background-color: turquoise;
+    border-color: turquoise;
+    border-radius: 50%;
+}
+.create {
+    width: 200px;
+    height:45px;
+    color: white;
+    font-size: 14pt;
+    background-color: cornflowerblue;
+    border-color: black;
+    border-width: 3.5px;
+}
