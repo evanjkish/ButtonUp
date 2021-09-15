@@ -1,0 +1,23 @@
+div.box1  {
+    justify-content: space-between;
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+}
+div.box2 {
+    width: 200px;
+    height:350px;
+    background-color: green;
+    display: inline-block;
+    margin: 0px
+
+}
+div.box3 {
+    width: 200px;
+    height:350px;
+    background-color: red;
+    display: inline-block;
+    margin: 0px
+
+}

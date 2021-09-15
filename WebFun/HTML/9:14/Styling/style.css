@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-style:normal
+}
+span {
+    color: cyan;
+}
+
+h2 {
+    color: white;
+    background-color: rebeccapurple;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+h3 {
+    background-color: lightblue;
+    text-align: end;
+    text-decoration: underline;
+}
